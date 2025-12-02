@@ -2,15 +2,8 @@
 .DS_Store
 Thumbs.db
 
-# Folder upload lokal
-upload/
-uploads/
-public/upload/
-
 # File environment / config sensitif
 .env
-config.php
-config/*.php
 
 # Composer
 vendor/
