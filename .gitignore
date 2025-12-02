@@ -1,0 +1,41 @@
+# Sistem OS
+.DS_Store
+Thumbs.db
+
+# Folder upload lokal
+upload/
+uploads/
+public/upload/
+
+# File environment / config sensitif
+.env
+config.php
+config/*.php
+
+# Composer
+vendor/
+composer.lock
+
+# Log
+*.log
+logs/
+storage/logs/
+
+# Cache / temp
+cache/
+tmp/
+*.cache
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+
+# Backup file
+*.bak
+*.old
+*.tmp
+
+# Session file (kalau kamu simpan session sendiri)
+session/
+sessions/
