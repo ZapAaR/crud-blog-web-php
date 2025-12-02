@@ -7,7 +7,7 @@ $host = "localhost";
 $dbname = "Blog_db";
 $port = "5432";
 $user = "postgres";
-$pass = "Muzafar";
+$pass = "";
 
 function pdo(): PDO {
     global $host, $dbname, $port, $user, $pass;
